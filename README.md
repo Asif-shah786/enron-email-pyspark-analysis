@@ -16,19 +16,19 @@ Welcome to the collaborative email dataset analysis project! Here’s a quick gu
    - Implement your solution, ensuring your code is clean and properly commented.
    - Include explanations for your logic and any assumptions you make.
 
-4. **Download Your Notebook as .py:**
-   - Once your solution is complete, download your notebook from Databricks in **.py** format.
+4. **Download Your Notebook as .ipynb:**
+   - Once your solution is complete, download your notebook from Databricks in **.ipynb** format.
 
 5. **Upload to GitHub:**
    - Log into your GitHub account and navigate to this repository.
    - Click on **Add file** > **Upload files**.
-   - Upload your `.py` file.
+   - Upload your `.ipynb` file.
    - Use the following naming convention for your file:
-     - **FirstName_Question[No].py**
-     - Example: `Asif_Q2.py`
+     - **FirstName_GroupQuestion[No].ipynb**
+     - Example: `Asif_C2.ipynb`
 
 6. **Leave a Comment:**
-   - When uploading, write a short comment about your contribution (e.g., "Added solution for Q2 - Unique recipients count").
+   - When uploading, write a short comment about your contribution (e.g., "Added solution for C2 - Unique recipients count").
 
 7. **View Each Other's Notebooks:**
    - Once uploaded, you can view and learn from each other's code.
